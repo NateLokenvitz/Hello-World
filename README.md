@@ -9,3 +9,8 @@
 <h1>About me</h1>
 > - I am a Junior at the University of Iowa
 > - I study <strong>Marketing and Business Analytics<strong>
+<h1>Additional Documentation</h1>
+<ul>
+  <li>I am new to coding</li>
+  <li>Excited to <strong><em> learn more</em><strong></li>
+</ul>
