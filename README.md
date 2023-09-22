@@ -4,5 +4,5 @@
 <h1>Description</h1>
 >> This is a sample profile setup
 <h1>About me</h1>
-- I am a Junior at the University of Iowa
-- I study <strong>Marketing and Business Analytics<strong>
+> - I am a Junior at the University of Iowa
+> - I study <strong>Marketing and Business Analytics<strong>
